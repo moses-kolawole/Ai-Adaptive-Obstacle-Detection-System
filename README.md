@@ -90,7 +90,7 @@ Each zone triggers different responses:
 ---
 
 ## Demostration video
-[Click this link for the video demo](https://www.youtube.com/playlist?list=PL4jjdUPfbiheLFbLEfzcVd4n5HsUE3YKg)
+![Click this link for the video demo](https://www.youtube.com/playlist?list=PL4jjdUPfbiheLFbLEfzcVd4n5HsUE3YKg)
 
 ## Code Features
 - Real-time sensor processing
